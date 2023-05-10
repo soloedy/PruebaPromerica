@@ -1,0 +1,10 @@
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\bin\Debug\WinConexionBaseDatos.exe.config
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\bin\Debug\WinConexionBaseDatos.exe
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\bin\Debug\WinConexionBaseDatos.pdb
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.csproj.AssemblyReference.cache
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.Prueba.resources
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.Properties.Resources.resources
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.csproj.GenerateResource.cache
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.exe
+C:\Users\Edy\source\repos\WinConexionBaseDatos\WinConexionBaseDatos\obj\Debug\WinConexionBaseDatos.pdb

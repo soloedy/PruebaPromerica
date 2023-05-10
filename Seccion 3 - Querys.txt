@@ -1,0 +1,19 @@
+USE DATABASEPROMERICA;
+
+-- CONSULTA A --
+SELECT A.Nombre 'Nombre Proyecto',C.Producto 'Producto'
+FROM Proyecto A
+INNER JOIN producto_proyecto B on A.proyecto = B.Proyecto 
+INNER JOIN producto C on C.Producto = B.Producto
+WHERE A.Proyecto = 1
+
+-- CONSULTA B --
+SELECT F.NOMBRE,A.PROYECTO,B.PRODUCTO
+FROM proyecto A
+INNER JOIN producto_proyecto B on A.proyecto = B.Proyecto 
+INNER JOIN producto C on C.Producto = B.Producto
+INNER JOIN MENSAJE D ON B.PROYECTO = D.PROYECTO AND C.Producto = D.Producto
+INNER JOIN FORMATO_MENSAJE E ON E.COD_FORMATO = D.COD_FORMATO
+INNER JOIN TIPO F ON F.COD_TIPO = E.COD_TIPO
+ORDER BY A.PROYECTO, B.PRODUCTO
+

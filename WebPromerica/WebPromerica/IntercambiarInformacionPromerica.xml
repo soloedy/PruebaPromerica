@@ -1,0 +1,13 @@
+<FncIntercambioInformacionTarjetaCredito>
+	<DatosTarjetaCredito>
+		<lStrNombreSistema>string</lStrNombreSistema>
+		<lStrLocalizacion>string</lStrLocalizacion>
+		<lDblNumeroTarjeta>double</lDblNumeroTarjeta>
+		<lIntIdCliente>integer</lIntIdCliente>
+		<lStrTitularTarjeta>string</lStrTitularTarjeta>
+		<lDtFechaEmisionTarjeta>datetime</lDtFechaEmisionTarjeta>
+		<lDtFechaVencimientoTarjeta>datetime</lDtFechaVencimientoTarjeta>
+		<lStrNombreEmisorTarjeta>string</lStrNombreEmisorTarjeta>
+		<lDcmlLimiteCredito>decimal</lDcmlLimiteCredito>
+	</DatosTarjetaCredito>
+</FncIntercambioInformacionTarjetaCredito>
